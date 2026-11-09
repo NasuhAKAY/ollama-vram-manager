@@ -15,3 +15,7 @@ Windows üzerinde yerel Ollama modellerini yönetmek, VRAM ve GPU kullanımını
 ## Çalıştırma
 ```powershell
 python ollama_panel.py
+
+
+![Ollama Panel Ekran Görüntüsü](SS1 (1).png)
+![Ollama Panel Ekran Görüntüsü](SS1 (2).png)
